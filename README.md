@@ -1,6 +1,6 @@
 # Imersão em Python — Resumo do Projeto
 
-Este repositório contém trabalho feito durante a **Imersão em Python** (Alura). O objetivo deste arquivo é servir como resumo técnico para incluir no seu portfólio, descrevendo ferramentas usadas, a virtualenv criada e comandos para rodar o projeto localmente.
+Este repositório contém trabalho feito durante a **Imersão em Python** (Alura). O objetivo deste arquivo é servir como resumo técnico, descrevendo ferramentas usadas, a virtualenv criada e comandos para rodar o projeto localmente.
 
 ## Tecnologias e ferramentas
 
@@ -67,3 +67,4 @@ Ou sem ativar explicitamente (usando o python da venv):
 ---
 
 Arquivo criado para inclusão no portfólio — sinta-se à vontade para editar texto e ajustar comandos conforme seu fluxo de trabalho.
+
