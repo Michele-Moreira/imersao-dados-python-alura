@@ -66,5 +66,5 @@ Ou sem ativar explicitamente (usando o python da venv):
 
 ---
 
-Arquivo criado para inclusão no portfólio — sinta-se à vontade para editar texto e ajustar comandos conforme seu fluxo de trabalho.
+
 
